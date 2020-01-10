@@ -1,3 +1,5 @@
+//From https://www.instructables.com/id/Arduino-Soil-Moisture-Sensor/
+
 void setup() {
 
   // initialize serial communication at 9600 bits per second:
